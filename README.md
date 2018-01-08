@@ -1,3 +1,2 @@
 # hello-world
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-im diego and i want more people in robotics 
+i think that programmers are the suerior race of robotics members 
